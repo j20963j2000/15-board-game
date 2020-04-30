@@ -3,7 +3,7 @@ import copy
 from random import choice
 
 print("   ")
-# deside if User first 
+# decide if User first 
 user_first = input("User First ? (y/n)").lower()
 
 while True:
